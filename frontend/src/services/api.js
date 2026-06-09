@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000/leaderboard";
+const API_URL = "https://scoreboard-api-aw31.onrender.com/leaderboard";
 
 export const fetchPlayers = async () => {
 
