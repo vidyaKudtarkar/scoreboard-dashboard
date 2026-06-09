@@ -95,6 +95,20 @@ Backend runs on:
 http://localhost:5000
 ```
 
+Live Demo
+
+Frontend:
+https://scoreboard-dashboard-6azz.vercel.app/
+
+Backend: 
+https://scoreboard-api-aw31.onrender.com/leaderboard
+
+Backend API:
+https://scoreboard-api-aw31.onrender.com
+
+Health Check:
+https://scoreboard-api-aw31.onrender.com/health
+
 ## Future Enhancements
 
 * Authentication & Authorization
